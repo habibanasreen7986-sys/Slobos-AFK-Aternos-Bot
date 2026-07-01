@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "TahmidServer.aternos.me:53664",
-    "port": 27586,
+    "port": 53664,
     "version": "1.16.5",
     "try-creative": false
   },
