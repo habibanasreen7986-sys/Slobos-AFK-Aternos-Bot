@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "24/7 Bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
+    "ip": "TahmidServer.aternos.me:53664",
     "port": 27586,
-    "version": "",
+    "version": "1.16.5 (1.0.26-SNAPSHOT-5c6b795 - 36.2.42)",
     "try-creative": false
   },
   "position": {
